@@ -1,0 +1,41 @@
+
+
+\documentclass{report}
+\begin{document}
+
+
+  \title{Replication Seminar}
+  \author{Vitor Krasniqi}
+  \maketitle
+  \date{}
+  
+  \begin{abstract}
+Text why I am going to replicate this paper
+
+\end{abstract}
+
+\tableofcontents{Inhaltsverzeichnis}
+
+\chapter{Working with the Liss Data}
+
+The Liss Data
+
+\section{Liss Data Section}
+
+Infos about the liss
+
+
+
+\subsection{liss}
+bla bla
+
+
+
+
+
+
+
+\addcontentsline{toc}{chapter}{Anhang}
+
+
+\end{document}
